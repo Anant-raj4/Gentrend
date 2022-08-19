@@ -1,5 +1,5 @@
 # Gentrend
-<h1>Grow <strong>YOUR</strong> Business at an Affordable Price!</h1>
+<h1>Grow <strong>YOUR</strong> Business at an Affordable Price With <strong>GenTrend<strong/>!</h1>
 
 ![image](https://user-images.githubusercontent.com/62700592/185537948-cfaac83f-687b-43aa-a683-565e60413d5a.png)
 
