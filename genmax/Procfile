@@ -1,1 +1,2 @@
 web: gunicorn genmax.wsgi --log-file -
+heroku ps:scale web=1
