@@ -1,1 +1,1 @@
-web: gunicorn genmax.genmax.wsgi --log-file -
+web: gunicorn genmax.wsgi --log-file -
